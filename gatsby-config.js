@@ -16,6 +16,12 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: "www.kalopatthar.com",
+      },
+    },
+    {
       resolve: 'gatsby-source-filesystem',
       options: {
         path: `${__dirname}/src/pages`,
