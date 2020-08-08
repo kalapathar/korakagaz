@@ -34,7 +34,7 @@ jobs:
     - name: Run NPM Deploy
       run: |
         npm install
-        npm run deploy
+        gatsby build
     - name: Deploy to S3
       uses: jakejarvis/s3-sync-action@master
       with:
