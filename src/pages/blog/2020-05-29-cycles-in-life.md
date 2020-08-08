@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Cycles in Life
-date: 2017-01-04T15:04:10.000Z
+title: Breaking the cycles in our lives
+date: 2020-04-05T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/bicycle.jpg
 description: We come across several cycles in life and some are difficult to get out of. But it is important that we recognise these cycles and break them.
 tags:
   - cycles
