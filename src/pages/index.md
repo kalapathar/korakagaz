@@ -3,7 +3,7 @@ templateKey: index-page
 title: Great coffee with a conscience
 image: /img/fly.JPG
 heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+subheading: Building tools for the bottom half
 mainpitch:
   title: Why Kaldi
   description: >
