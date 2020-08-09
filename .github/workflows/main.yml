@@ -42,7 +42,7 @@ jobs:
         AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
         SOURCE_DIR: 'public'
     - name: Invalidate Cloudfront
-    - uses: awact/cloudfront-action@master
+      uses: awact/cloudfront-action@master
       env:
         SOURCE_PATH: '/index.html'
         AWS_REGION: 'us-east-1'
