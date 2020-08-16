@@ -12,11 +12,11 @@ const Footer = class extends React.Component {
     return (
       <footer className="footer has-background-black has-text-white-ter">
         <div className="content has-text-centered">
-          <img
+          {/* <img
             src={logo}
             alt="Kaldi"
             style={{ width: '14em', height: '10em' }}
-          />
+          /> */}
         </div>
         <div className="content has-text-centered has-background-black has-text-white-ter">
           <div className="container has-background-black has-text-white-ter">
@@ -34,7 +34,7 @@ const Footer = class extends React.Component {
                         About
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/products">
                         Products
                       </Link>
@@ -43,16 +43,16 @@ const Footer = class extends React.Component {
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
-                    </li>
+                    </li> */}
                     <li>
-                      <a
+                      {/* <a
                         className="navbar-item"
                         href="/admin/"
                         target="_blank"
                         rel="noopener noreferrer"
                       >
                         Admin
-                      </a>
+                      </a> */}
                     </li>
                   </ul>
                 </section>
@@ -74,14 +74,14 @@ const Footer = class extends React.Component {
                 </section>
               </div>
               <div className="column is-4 social">
-                <a title="facebook" href="https://facebook.com">
+                {/* <a title="facebook" href="https://facebook.com">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
-                <a title="twitter" href="https://twitter.com">
+                </a> */}
+                <a title="twitter" href="https://twitter.com/kalopatthar">
                   <img
                     className="fas fa-lg"
                     src={twitter}
@@ -89,20 +89,20 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="instagram" href="https://instagram.com">
+                <a title="instagram" href="https://instagram.com/ghirni">
                   <img
                     src={instagram}
                     alt="Instagram"
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                {/* <a title="vimeo" href="https://vimeo.com">
                   <img
                     src={vimeo}
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>
