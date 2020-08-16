@@ -19,7 +19,15 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
         bucketName: "www.kalopatthar.com",
+        protocol: "https",
+        hostname: "www.kalopatthar.com",
       },
+    },
+    {
+      resolve: `gatsby-plugin-canonical-urls`,
+      options: {
+          siteUrl: "https://www.kalopatthar.com",
+      }
     },
     {
       resolve: 'gatsby-source-filesystem',
