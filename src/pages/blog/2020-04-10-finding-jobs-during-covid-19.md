@@ -3,7 +3,7 @@ templateKey: blog-post
 title: International Student Job Search
 date: 2020-04-10T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/job-search.jpeg
 description: 
 tags:
   - international student
