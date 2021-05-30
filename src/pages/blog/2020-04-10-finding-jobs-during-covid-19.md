@@ -3,7 +3,7 @@ templateKey: blog-post
 title: International Student Job Search
 date: 2020-04-10T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/job-search.jpeg
+featuredimage: /img/flavor_wheel.jpg
 description: 
 tags:
   - international student
