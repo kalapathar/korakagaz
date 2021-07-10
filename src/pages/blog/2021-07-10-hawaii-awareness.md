@@ -1,10 +1,9 @@
 ---
 templateKey: blog-post
 title: What I realized after going to Hawaii
-date: 2020-04-05T15:04:10.000Z
+date: 2021-07-10T15:04:10.000Z
 featuredpost: false
-featuredimage: /img/bicycle.jpg
-description: 71% of the earth's surface is water. I had read it but only after visiting Hawaii, I became fully aware that there really is a lot of water on Earth. And hence I signed up for swimming lessons.
+featuredimage: /img/indra.jpg
 tags:
   - Hawaii
   - culture
