@@ -18,7 +18,7 @@ tags:
 I felt so godly. I remember watching Indra moving through clouds in Ramayana and Mahabharata in our family' black and white television. On the left is Indra and on the right is me making my way to the earth through the clouds. Do you see how similar it looks?
 
 
-![bicycle](/img/indrajpg)
+![bicycle](/img/indra.jpg)
 
 ![bicycle](/img/skydive.jpeg)
 
