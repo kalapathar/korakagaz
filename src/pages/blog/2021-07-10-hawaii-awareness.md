@@ -21,4 +21,7 @@ I felt so godly. I remember watching Indra moving through clouds in Ramayana and
 
 ![bicycle](/img/skydive.jpeg)
 
-![bicycle](/img/skydive.png)
+<p float="left">
+  <img src="/img/indra.jpg" width="100" />
+  <img src="/img/skydive.jpeg" width="100" /> 
+</p>
