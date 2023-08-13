@@ -28,10 +28,17 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     # Runs a set of commands using the runners shell
-    - name: Build Gatsby Site
-      uses: jzweifel/gatsby-cli-github-action@master
-      with:
-        gatsby-arg: build
+    - name: Install Project Dependencies
+      run: npm ci
+    
+    - name: Install Gatsby CLI
+      run: npm install -g gatsby-cli@2.12.34
+    
+    - name: Build
+      run: gatsby build
+    
+    - name: Verify build
+      run: ls -la public
     - name: Deploy to S3
       uses: jakejarvis/s3-sync-action@master
       with:
