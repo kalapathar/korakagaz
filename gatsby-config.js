@@ -19,7 +19,7 @@ module.exports = {
       options: {
         indentedSyntax: true
       }
-    }
+    },
     {
       resolve: `gatsby-plugin-s3`,
       options: {

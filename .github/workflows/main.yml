@@ -29,7 +29,7 @@ jobs:
         node-version: ${{ matrix.node-version }}
     # Runs a set of commands using the runners shell
     - name: Install Project Dependencies
-      run: npm ci
+      run: npm install
 
     - name: Install Gatsby CLI
       run: npm install -g gatsby-cli@2.12.34
