@@ -6,7 +6,6 @@ module.exports = {
   },
   plugins: [
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -15,6 +14,12 @@ module.exports = {
         name: 'uploads',
       },
     },
+    {
+      resolve: 'gatsby-plugin-sass',
+      options: {
+        indentedSyntax: true
+      }
+    }
     {
       resolve: `gatsby-plugin-s3`,
       options: {
