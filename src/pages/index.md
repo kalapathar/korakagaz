@@ -3,7 +3,6 @@ templateKey: index-page
 title: Challenging Stereotypes
 image: /img/fly.JPG
 heading: Great coffee with a conscience
-subheading: Building tools for the bottom-half
 mainpitch:
   title: Why Kaldi
   description: >
