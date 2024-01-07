@@ -7,7 +7,7 @@ title: My Philosophy
 Peoples' lives are so different - some kids of Khairba spend their entire lives earning as a migrant worker in the Middle East while some kids inherit their family's property and have little to do. To understand how different peoples' lives are, we have to get out of our comfort zone. We certainly have a choice of not giving a damn but in this highly globalized world you might come across a wide range of people having backgrounds much different than your own. If you want to learn about peoples' lives, you have to leave home, culture, language and country and live as a stranger in a new land. The best way to learn about people is by obeserving how strangers treat you. Gradually after living with strangers, we become close friends. 
 
 ### Chase your fear 😨
-Do exactly what you fear. Long time back when I was little, I was afraid of street dogs. They bark loudly and run fast, features of a deadly wild animal.  Believe me, I am talking about some really wild street dogs, not about your cute Daisy/Lucy/Tommy/Lola. One day, I chased a dog when it barked at me. I was not angry at the dog, I was just disappointed with myself that I was so easily afraid of a dog. My friends who saw me chasing the dog thought I was crazy. And I probably was however I did let off go my fear for dogs. Fear is temporary but chase it, get rid of it.  
+Do exactly what you fear. One of the good ways to overcome fear is to face it. 
 
 ### Listen more 👂, Speak less 😶
 My dad always told there is a good reason why you have two ears and only one mouth. You listen more and speak less. I am not sure who told him about that but it does seem more than a coincidence. When you find the reason, let me know too. But for now, listen because listening promotes better conversation and people feel belonged when there is a friend who listens to them.
@@ -21,5 +21,3 @@ Everyday I take a light rail to work. And on many occassions, I see some familia
 ### News 📰  are rare events
 Don't assume strangers are harmful. Assume strangers are kind until you meet a harmful one. From my experience, most strangers are nice and helpful. Don't let news paint a real picture of the world. The definition of "News" is rare events that happen. So if you heard via news about a white guy who shot 20 people at the bar, stop treating any random white guy as a potential terrorist. There are so many pleasant stories that do not appear on your news feed because good news are not spicy and exciting and hence are left out by algorithms. As a result, it never makes it your news feed. When you consume news, be cautitious of how that is impacting your brain. 
 
-### Play Holi 🍭
-Holi is a festival of color. Don't ask me about the religious background of why it is there. But just enjoy putting colors on people's faces and add color to your life. Play it. 

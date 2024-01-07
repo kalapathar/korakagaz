@@ -30,7 +30,7 @@ Well, friends, there are really a lot of alternative sources of protein and if a
   Again, the one at Trader Joe's is great but might be available in other stores too. 
 ### Bean and Lentils
   
-  I obviously need to do better here because I have been depending a lot on the lentils from Trader's joe again but whenever I am not travelling (which has been rare these days), I want to start using instant pot to make lentils.
+  I obviously need to do better here because I have been depending a lot on the lentils from Trader Joe's again but whenever I am not travelling (which has been rare these days), I want to start using instant pot to make lentils.
 
   | When I am travelling | When I am at home |
   | ------------- | ------------- |
